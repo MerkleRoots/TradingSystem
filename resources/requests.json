@@ -1,0 +1,18 @@
+{
+    "requests": [
+        {
+            "records": [
+                {"from": "A", "to": "B", "amount": 0.1, "fee": 0},
+                {"from": "B", "to": "C", "amount": 9, "fee": 1},
+                {"from": "C", "to": "E", "amount": 9, "fee": 8}
+            ]
+        },
+        {
+            "records": [
+                {"from": "D", "to": "A", "amount": 5, "fee": 3},
+                {"from": "E", "to": "B", "amount": 2, "fee": 3},
+                {"from": "F", "to": "E", "amount": 7, "fee": 6}
+            ]
+        }
+    ]
+}

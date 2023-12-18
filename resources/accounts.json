@@ -1,0 +1,11 @@
+{
+    "accounts": [
+        {"name": "A", "balance": 0.1},
+        {"name": "B", "balance": 100},
+        {"name": "C", "balance": 0},
+        {"name": "D", "balance": 1357},
+        {"name": "E", "balance": 20},
+        {"name": "F", "balance": 100},
+        {"name": "System", "balance": 0}
+    ]
+}
